@@ -7,8 +7,10 @@ public class aula44 {
 		for(int parcela: Cliente.getParcela()) {
 			System.out.println(parcela);
 		}
+		System.out.println("================================");
 		for(int parcela: Cliente.getParcela()) {
 			System.out.println(parcela);
 		}
+		
 	}
 }

@@ -3,7 +3,7 @@ package modificadores.abastracao;
 public class Cliente {
 	//segunda forma de inicializar
 		//passos seguidos pelo java
-		// 0 - Bloco de inicialização é executado quando a JVM carrega a classe(é executado apenas 1 vez)
+		// 0 - Bloco de inicialização static é executado quando a JVM carrega a classe(é executado apenas 1 vez)
 		// 1 - Alocado espaco na memoria para o objeto que será criado
 		// 2 - Cada atributo de classe é criado e inicializado com seus
 		// valores default ou valores explicitos
