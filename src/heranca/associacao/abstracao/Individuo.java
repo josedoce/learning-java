@@ -12,7 +12,6 @@ public class Individuo {
 	public String toString() {
 		return "Nome: "+this.nome+" idade: " + this.idade;
 	}
-	
 	public String getNome() {
 		return this.nome;
 	}
